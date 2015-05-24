@@ -1,0 +1,15 @@
+E:\Studio Projects\Immunity\Immunity\bin\Debug\Immunity.exe.config
+E:\Studio Projects\Immunity\Immunity\bin\Debug\Immunity.exe
+E:\Studio Projects\Immunity\Immunity\bin\Debug\Immunity.pdb
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.csprojResolveAssemblyReference.cache
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.Properties.Resources.resources
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.csproj.GenerateResource.Cache
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.exe
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.pdb
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.Splash.resources
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.Signup.resources
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.Login.resources
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.Dashboard.resources
+E:\Studio Projects\Immunity\Immunity\bin\Debug\Immunity_DB_NET.mdf
+E:\Studio Projects\Immunity\Immunity\bin\Debug\Immunity_DB_NET_log.ldf
+E:\Studio Projects\Immunity\Immunity\obj\Debug\Immunity.Congrats.resources
