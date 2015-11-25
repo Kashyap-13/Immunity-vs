@@ -86,8 +86,6 @@ namespace Immunity
         protected string SendEmail(string toAddress, string subject, string body)
         {
             string result = "Message Sent Successfully..!!";
-            string senderID = "kshjoshi13@gmail.com";
-            const string senderPassword = "justin123bieber1308"; 
      
             try
             {
